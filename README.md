@@ -9,6 +9,6 @@ This calculator performs the calculations related to: <br />
 <br />
 **Bonds:** Bond Pricing, Dirty Price, Forward Rate, Duration, Convexity, DV01, Percentage change in bond price and Realized Returns. **Module: SairamBonds**<br />
 <br />
-**Derivatives:** Option Greeks with dividends and some Forward prices. **Module: SairamDerivatives**<br />
+**Derivatives:** Option Greeks with dividends and some Forward price formulas. **Module: SairamDerivatives**<br />
 <br />
 **BasicInvestments:** Simple Interest, Compound Interest, Continously Compounded Interest, EIR, Annuity and Perpetuity. **Module: SairamBasicInvestments**
